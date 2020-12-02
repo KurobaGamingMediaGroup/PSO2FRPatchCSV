@@ -20,7 +20,7 @@ NpcCom2RemainingEnemy#1,"""Il en reste deux!<br>Ne perdez pas votre concentratio
 NpcComOnBegin#2,"""Commandes urgentes!<br>Lectures d'ennemies puissantes confirmees!<br>S'il vous plait, battez-le rapidement!"""
 NpcComOnBeginMultiEnemy#2,"""開始、複数エネミー"""
 NpcComOnSuccess#2,"""/face2 Les lectures de l'ennemi ont disparu!<br>Merci beaucoup, à tous!"""
-NpcComOnFailure#2,"""/face6 Non! Les ARKS engagés ont subi de lourds dégâts ...<br>Teleporter vers le campement ..."""
+NpcComOnFailure#2,"""/face6 Non! Les ARKS engagés ont subi de lourds degats ...<br>Teleporter vers le campement ..."""
 HP_Under_50#2,"""The $(0) il devient vraiment plus faible!"""
 HP_Under_10#2,"""The $(0) il n'a plus qu'un tout petit peu de force!"""
 NpcComLastEnemy#2,"""/face2 Un de plus!<br>Un de plus!"""
