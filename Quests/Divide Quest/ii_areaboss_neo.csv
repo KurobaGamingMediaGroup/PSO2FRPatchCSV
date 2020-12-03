@@ -51,5 +51,5 @@ NpcComOnBegin#6,"""Attention, c'est un puissant ennemi!<br>Il s'agit de notre si
 NpcComOnBeginMultiEnemy#6,"""De puissants ennemis arrivent!<br>Vous allez combattre plusieurs ennemis cette fois.<br>Bonne chance!"""
 NpcComOnSuccess#6,"""Waouh incroyable!<br>Confirme, ennemi puissant vaincu.<br>Merci beaucoup!"""
 NpcComOnFailure#6,"""Vous avez atteint la limite de temps.<br>Je suis desole, mais cette entrainement est terminee.<br>Merci beaucoup."""
-NpcComLastEnemy#6,"""Un ennemi puissant vaincu.<br>Juste un de plus."""
-NpcCom2RemainingEnemy#6,"""Un ennemi puissant vaincu.<br>Vous faites de bons progres."""
+NpcComLastEnemy#6,"""Un ennemi puissant a ete vaincu.<br>Juste un de plus."""
+NpcCom2RemainingEnemy#6,"""Un ennemi puissant a ete vaincu.<br>Vous faites de bons progres."""
